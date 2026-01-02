@@ -1,0 +1,1 @@
+{ "name": "clusio-clone", "private": true, "version": "1.0.0", "description": "Clueso Clone using Node.js, Express, SQL, and Python", "main": "server/index.js", "scripts": { "start": "node server/index.js" }, "dependencies": { "better-sqlite3": "^11.0.0", "express": "^4.19.0", "multer": "^2.0.2" }, "engines": { "node": ">=18.0.0" } }
